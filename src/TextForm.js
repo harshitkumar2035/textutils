@@ -44,7 +44,7 @@ export default function TextForm(props) {
         </textarea>
       </div>
         
-        <div className="mt-3 d-grid gap-2 d-sm-flex justify-content-sm-center"></div>
+        <div  className="mt-3 d-grid gap-2 d-sm-flex justify-content-sm-center"></div>
 
       <button className="btn btn-primary mx-1" onClick={handleUpClick}>Convert to Uppercase</button>
       
